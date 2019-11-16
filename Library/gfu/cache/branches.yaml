@@ -13,11 +13,13 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 2
-  lastUpdatedAtString: 2019-11-16T17:18:15.067+03:00
-  initializedAtString: 2019-11-16T17:18:15.047+03:00
+  lastUpdatedAtString: 2019-11-16T18:20:51.339+03:00
+  initializedAtString: 2019-11-16T18:08:50.180+03:00
   localBranches:
   - name: dev
     tracking: origin/dev
+  - name: local
+    tracking: 
   - name: master
     tracking: 
   remoteBranches:
@@ -36,6 +38,7 @@ MonoBehaviour:
   localConfigBranches:
     keys:
     - dev
+    - local
     - master
     values:
     - name: dev
@@ -43,6 +46,11 @@ MonoBehaviour:
         name: origin
         url: https://github.com/CankayaUniversity/ceng-407-408-2019-2020-Learn-Easy-Read-Easy
       trackingBranch: dev
+    - name: local
+      remote:
+        name: 
+        url: 
+      trackingBranch: 
     - name: master
       remote:
         name: 
