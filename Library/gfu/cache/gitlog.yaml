@@ -1,0 +1,252 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: -530159753, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 3
+  lastUpdatedAtString: 2019-11-16T17:15:06.071+03:00
+  initializedAtString: 2019-11-16T17:07:57.176+03:00
+  log:
+  - commitID: 76ca9616f51c2568273f37c96f6d76034efbbb63
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Rename LERE.io to LERE
+    description: 
+    timeString: 2019-11-16T16:02:12.000+03:00
+    commitTimeString: 2019-11-16T16:02:12.000+03:00
+    changes:
+    - path: LERE
+      fullPath: C:\Users\busra\Desktop\Games\LERE\LERE
+      projectPath: LERE
+      originalPath: LERE.io
+      indexStatus: 6
+      workTreeStatus: 0
+  - commitID: 6a40e5c32876ce328cf373ae71a7367a5a2c855f
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Rename LERE to LERE.io
+    description: 
+    timeString: 2019-11-16T16:01:29.000+03:00
+    commitTimeString: 2019-11-16T16:01:29.000+03:00
+    changes:
+    - path: LERE.io
+      fullPath: C:\Users\busra\Desktop\Games\LERE\LERE.io
+      projectPath: LERE.io
+      originalPath: LERE
+      indexStatus: 6
+      workTreeStatus: 0
+  - commitID: fb3de59227da6d0ec0d6324d55c6a1da8376ee29
+    mergeA: 
+    mergeB: 
+    authorName: busrakarausta
+    authorEmail: 33478107+busrakarausta@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: First Commit of Web Page
+    description: 
+    timeString: 2019-11-16T15:54:31.000+03:00
+    commitTimeString: 2019-11-16T15:54:31.000+03:00
+    changes:
+    - path: LERE
+      fullPath: C:\Users\busra\Desktop\Games\LERE\LERE
+      projectPath: LERE
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: fa63be601da67b09ed48f9ed64237ad981445541
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Add files via upload
+    description: 
+    timeString: 2019-11-05T22:10:36.000+03:00
+    commitTimeString: 2019-11-05T22:10:36.000+03:00
+    changes:
+    - path: workPlanLERE.png
+      fullPath: C:\Users\busra\Desktop\Games\LERE\workPlanLERE.png
+      projectPath: workPlanLERE.png
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 284b642aa1d9ca1b736e44238c244c949f60b949
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete files
+    description: 
+    timeString: 2019-11-05T22:10:24.000+03:00
+    commitTimeString: 2019-11-05T22:10:24.000+03:00
+    changes:
+    - path: files
+      fullPath: C:\Users\busra\Desktop\Games\LERE\files
+      projectPath: files
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: ff78b8be40cc4010b99ffb9780b03db322db78f8
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Create files
+    description: 
+    timeString: 2019-11-05T22:10:13.000+03:00
+    commitTimeString: 2019-11-05T22:10:13.000+03:00
+    changes:
+    - path: files
+      fullPath: C:\Users\busra\Desktop\Games\LERE\files
+      projectPath: files
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 76d91ae0731b9554cbd8813c6e271dba7428bdbc
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Delete LERE_WorkPlan.xlsx
+    description: 
+    timeString: 2019-11-05T22:09:45.000+03:00
+    commitTimeString: 2019-11-05T22:09:45.000+03:00
+    changes:
+    - path: LERE_WorkPlan.xlsx
+      fullPath: C:\Users\busra\Desktop\Games\LERE\LERE_WorkPlan.xlsx
+      projectPath: LERE_WorkPlan.xlsx
+      originalPath: 
+      indexStatus: 5
+      workTreeStatus: 0
+  - commitID: 44956e5580622f1e1ea1291485688a3a23254cd5
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2019-11-05T21:56:36.000+03:00
+    commitTimeString: 2019-11-05T21:56:36.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\busra\Desktop\Games\LERE\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 8f8d7403a27fe48df6492444fd4235ebe62c7ca5
+    mergeA: 
+    mergeB: 
+    authorName: Elif
+    authorEmail: 40864882+elifsoolmaz@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Added LERE's work plan.
+    description: 
+    timeString: 2019-10-18T22:33:16.000+03:00
+    commitTimeString: 2019-10-18T22:33:16.000+03:00
+    changes:
+    - path: LERE_WorkPlan.xlsx
+      fullPath: C:\Users\busra\Desktop\Games\LERE\LERE_WorkPlan.xlsx
+      projectPath: LERE_WorkPlan.xlsx
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
+  - commitID: 93b25076ea0e5ae336271e52df431fb3f18c0e75
+    mergeA: 
+    mergeB: 
+    authorName: Kenan
+    authorEmail: 40590296+kanni70@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2019-10-18T22:33:14.000+03:00
+    commitTimeString: 2019-10-18T22:33:14.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\busra\Desktop\Games\LERE\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: c310e67d71b1422f27155b96385db976b62852a5
+    mergeA: 
+    mergeB: 
+    authorName: Kenan
+    authorEmail: 40590296+kanni70@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2019-10-18T22:27:17.000+03:00
+    commitTimeString: 2019-10-18T22:27:17.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\busra\Desktop\Games\LERE\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: e3de108e5e61349c95c5780aaa4faeb683a9ae44
+    mergeA: 
+    mergeB: 
+    authorName: Kenan
+    authorEmail: 40590296+kanni70@users.noreply.github.com
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Update README.md
+    description: 
+    timeString: 2019-10-18T22:25:38.000+03:00
+    commitTimeString: 2019-10-18T22:25:38.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\busra\Desktop\Games\LERE\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+  - commitID: 3b8bae675d20b7ae154779c41c26ea3e19275916
+    mergeA: 
+    mergeB: 
+    authorName: Serdar Tasel
+    authorEmail: fst@cankaya.edu.tr
+    commitEmail: noreply@github.com
+    commitName: GitHub
+    summary: Initial commit
+    description: 
+    timeString: 2019-10-17T14:24:13.000+03:00
+    commitTimeString: 2019-10-17T14:24:13.000+03:00
+    changes:
+    - path: README.md
+      fullPath: C:\Users\busra\Desktop\Games\LERE\README.md
+      projectPath: README.md
+      originalPath: 
+      indexStatus: 4
+      workTreeStatus: 0
