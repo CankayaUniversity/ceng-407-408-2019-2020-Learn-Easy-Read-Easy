@@ -13,9 +13,51 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 3
-  lastUpdatedAtString: 2019-11-16T18:25:27.171+03:00
-  initializedAtString: 2019-11-16T18:10:41.213+03:00
+  lastUpdatedAtString: 2019-11-16T18:26:51.435+03:00
+  initializedAtString: 2019-11-16T18:26:51.435+03:00
   log:
+  - commitID: ba73c76ad863111439b09bb259a7dcd857942702
+    mergeA: 
+    mergeB: 
+    authorName: busrakarausta
+    authorEmail: karaustabusraa@gmail.com
+    commitEmail: karaustabusraa@gmail.com
+    commitName: busrakarausta
+    summary: Temp file commit dev
+    description: Temp file commit
+    timeString: 2019-11-16T18:25:40.000+03:00
+    commitTimeString: 2019-11-16T18:25:40.000+03:00
+    changes:
+    - path: Library\gfu\cache\branches.yaml
+      fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\branches.yaml
+      projectPath: Library\gfu\cache\branches.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlocks.yaml
+      fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\gitlocks.yaml
+      projectPath: Library\gfu\cache\gitlocks.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitlog.yaml
+      fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\gitlog.yaml
+      projectPath: Library\gfu\cache\gitlog.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gitstatusentries.yaml
+      fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\gitstatusentries.yaml
+      projectPath: Library\gfu\cache\gitstatusentries.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
+    - path: Library\gfu\cache\gittrackingstatus.yaml
+      fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\gittrackingstatus.yaml
+      projectPath: Library\gfu\cache\gittrackingstatus.yaml
+      originalPath: 
+      indexStatus: 3
+      workTreeStatus: 0
   - commitID: ff77f24773edb5405ce2d9a1af09643e43c2f2d8
     mergeA: 9bf3ccd086d705749bec767983d255b0f5a2ab27
     mergeB: 3f5ee194daa036877c69f1f0e10d0225f7f702b9

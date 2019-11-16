@@ -13,9 +13,21 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   cacheType: 6
-  lastUpdatedAtString: 2019-11-16T18:25:30.873+03:00
-  initializedAtString: 2019-11-16T18:08:41.890+03:00
+  lastUpdatedAtString: 2019-11-16T18:28:59.755+03:00
+  initializedAtString: 2019-11-16T18:27:59.076+03:00
   entries:
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\busra\Desktop\Games\LERE\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\busra\Desktop\Games\LERE\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
   - path: Library\gfu\cache\branches.yaml
     fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\branches.yaml
     projectPath: Library\gfu\cache\branches.yaml
@@ -43,6 +55,18 @@ MonoBehaviour:
   - path: Library\gfu\cache\gittrackingstatus.yaml
     fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\gittrackingstatus.yaml
     projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\gituser.yaml
+    fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\gituser.yaml
+    projectPath: Library\gfu\cache\gituser.yaml
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\busra\Desktop\Games\LERE\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
     originalPath: 
     indexStatus: 0
     workTreeStatus: 3
